@@ -2641,6 +2641,7 @@ input, select, textarea {
 	.p-3 {
 		padding: 1rem !important;
 	}
+	.ml-3 { margin-left: 1rem !important; }
 
 	.slider-item {
 		margin: 20px;
@@ -2693,3 +2694,7 @@ input, select, textarea {
 	section#catalogue-header {
 		padding: 2rem;
 	}
+
+	.d-flex { display: flex !important; }
+	.justify-content-start { justify-content: flex-start !important; }
+	.align-items-center { align-items: center !important; }
