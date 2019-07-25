@@ -2669,15 +2669,13 @@ input, select, textarea {
 	}
 
 	.one-stop-slider .slick-prev{
-		left: 25px;
+		left: 45px;
 		z-index: 10;
 	}
 
 	.one-stop-slider .slick-next{
-		right: 25px;
+		right: 45px;
 	}
-
-	
 
 	@media screen and (max-width: 736px) {
 		.one-stop-slider{
