@@ -2676,3 +2676,12 @@ input, select, textarea {
 	.one-stop-slider .slick-next{
 		right: 25px;
 	}
+
+	
+
+	@media screen and (max-width: 736px) {
+		.one-stop-slider{
+			margin-right: -20px !important;
+			margin-left: -20px !important;
+		}
+	}

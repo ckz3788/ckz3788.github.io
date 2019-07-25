@@ -130,11 +130,34 @@
   });
 
   $('.one-stop-slider').slick({
+  	slidesToShow: 3, // default desktop values
+    slidesToScroll: 3,
     centerMode: true,
 	  centerPadding: '10px',
-	  variableWidth: true,
 	  autoplay: true,
-	  autoplaySpeed: 2000
+	  autoplaySpeed: 2000,
+	  responsive: [
+        {
+            breakpoint: 968, // tablet breakpoint
+            settings: {
+                slidesToShow: 2,
+                centerMode: true,
+                centerPadding: '10px',
+                autoplay: true,
+							  autoplaySpeed: 2000,
+            }
+        },
+        {
+            breakpoint: 736, // mobile breakpoint
+            settings: {
+                slidesToShow: 1,
+                centerMode: true,
+                centerPadding: '10px',
+                autoplay: true,
+							  autoplaySpeed: 2000,
+            }
+        }
+    ]
   });
 
 })(jQuery);
