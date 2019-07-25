@@ -2683,3 +2683,13 @@ input, select, textarea {
 			margin-left: -20px !important;
 		}
 	}
+
+	.text-left { text-align: left !important; }
+
+	.catalogue-logo {
+		max-width: 150px;
+	}
+
+	section#catalogue-header {
+		padding: 2rem;
+	}
