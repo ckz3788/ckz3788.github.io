@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="950px" height="529px" viewBox="0 0 950 529" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Logo-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-white" transform="translate(5.000000, 5.000000)">
+            <rect id="Rectangle" stroke="#000000" fill="#FFFFFF" x="364.5" y="112.5" width="185" height="290" rx="5"></rect>
+            <path d="M570,365 C639.587878,365 696,308.587878 696,239 C696,169.412122 639.587878,113 570,113 C570,255.38 570,267.995328 570,365 Z" id="Oval" fill="#FFFFFF"></path>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFFFF" x="213.5" y="59.5" width="513" height="37" rx="5"></rect>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFFFF" x="213.5" y="418.5" width="513" height="37" rx="5"></rect>
+            <polygon id="Triangle" stroke="#000000" fill="#FFFFFF" points="294 113 323 155 265 155"></polygon>
+            <rect id="Rectangle" stroke="#000000" fill="#FFFFFF" x="244.5" y="219.5" width="99" height="183" rx="5"></rect>
+            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="10" cx="470" cy="259.5" rx="470" ry="259.5"></ellipse>
+            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="10" cx="470" cy="257" rx="431" ry="257"></ellipse>
+            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="10" cx="294" cy="158" rx="47" ry="46"></ellipse>
+        </g>
+    </g>
+</svg>
