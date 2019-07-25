@@ -2667,3 +2667,12 @@ input, select, textarea {
 	{
 	   height: block !important;
 	}
+
+	.one-stop-slider .slick-prev{
+		left: 25px;
+		z-index: 10;
+	}
+
+	.one-stop-slider .slick-next{
+		right: 25px;
+	}

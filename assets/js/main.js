@@ -129,4 +129,12 @@
 	  autoplaySpeed: 1000
   });
 
+  $('.one-stop-slider').slick({
+    centerMode: true,
+	  centerPadding: '10px',
+	  variableWidth: true,
+	  autoplay: true,
+	  autoplaySpeed: 2000
+  });
+
 })(jQuery);
